@@ -1,2 +1,2 @@
-# -Q-A-site
+# Q-A-site
 A question and answer site.
